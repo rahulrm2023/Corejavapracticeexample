@@ -127,13 +127,13 @@ public class Grade {
        else if (mark <=75 && mark >= 89){
       System.out.println("Grade B");
 }
-   else if (mark <= 50 && mark >= 74 ){
+   else if (mark <= 74 && mark >= 50 ){
       System.out.println("Grade C") ; 
 }  
-    else if (mark <=35 && mark>= 49){
+    else if (mark <=49 && mark>= 35){
      System.out.println("Grade D "); 
     }
-    else if (mark <=0 && mark > 35){
+    else if (mark <=35 && mark > =0){
       System.out.println(" Fail ....!");
 }
     else{
@@ -359,4 +359,5 @@ public class Greaternum {
 	}
 
 }
+
 --------------------------------------------------------------------------------------------------------------------------------
