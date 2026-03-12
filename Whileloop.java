@@ -80,8 +80,8 @@ public class Table1 {
 		int n = 5, c, i = 1;
 		;
 		while (i <= 10) {
-			c = n * i;
-			System.out.println(c);
+			
+			System.out.println(n * i);
 			i++;
 		}
 
@@ -96,10 +96,10 @@ package Loop;
 public class Number {
 
 	public static void main(String[] args) {
-		int i = 7, c, i = 1;
+		int i = 7,  i = 1;
 		while (i <= 10) {
-			c = n * i;
-			System.out.println(c);
+			
+			System.out.println( n * i);
 			i++;
 		}
 
