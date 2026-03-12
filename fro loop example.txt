@@ -74,10 +74,9 @@ package Loop;
 public class Table {
 
 	public static void main(String[] args) {
-int n = 5 , c;
+int n = 5 ;
 for(int i = 1; i<=10; i++){
-c= n*i;
-System.out.println(c);
+System.out.println(n*i);
 }
 		
 	}
@@ -93,10 +92,10 @@ package Loop;
 public class Table {
 
 	public static void main(String[] args) {
-int i=7, c;
+int i=7;
 for(int i = 1; i<=10; i++){
-c= n*i;
-System.out.println(c);
+
+System.out.println(n*i);
 }
 		
 	}
@@ -180,4 +179,5 @@ System.out.println(" sum of odd number = "+ add);
 	}
 
 }
+
 
