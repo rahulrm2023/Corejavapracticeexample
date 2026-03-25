@@ -7,6 +7,6 @@ public class Series {public void show(int num) {
 		System.out.println("Number is Odd  ");
 	}
 }
-	
+	 
 
 }
